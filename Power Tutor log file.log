@@ -1,0 +1,80 @@
+phone-service in-service
+phone-network 13
+signal -1
+phone-call idle
+data connected
+battery-change 0 70/100 3918310
+signal -1
+setting_brightness 102
+setting_screen_timeout 60000
+time 1524258080197
+localtime_offset -25200000
+model dream
+associate 10344 edu.umich.PowerTutor@15
+begin 0
+total-power 533
+meminfo 3731544 63408 815680 44672
+LCD 533
+LCD-brightness 102
+LCD-screen-on true
+LCD-10344 533
+3G 0
+3G-on false
+GPS 0
+GPS-state-times 1.0 0.0 0.0
+GPS-sattelites 0
+Audio 0
+Audio-on false
+begin 1
+total-power 533
+LCD 533
+LCD-brightness 102
+LCD-screen-on true
+LCD-10344 533
+3G 0
+3G-on false
+GPS 0
+GPS-state-times 1.0 0.0 0.0
+GPS-sattelites 0
+Audio 0
+Audio-on false
+begin 2
+total-power 533
+LCD 533
+LCD-brightness 102
+LCD-screen-on true
+LCD-10344 533
+3G 0
+3G-on false
+GPS 0
+GPS-state-times 1.0 0.0 0.0
+GPS-sattelites 0
+Audio 0
+Audio-on false
+begin 3
+total-power 533
+LCD 533
+LCD-brightness 102
+LCD-screen-on true
+LCD-10344 533
+3G 0
+3G-on false
+GPS 0
+GPS-state-times 1.0 0.0 0.0
+GPS-sattelites 0
+Audio 0
+Audio-on false
+begin 4
+total-power 533
+LCD 533
+LCD-brightness 102
+LCD-screen-on true
+LCD-10344 533
+3G 0
+3G-on false
+GPS 0
+GPS-state-times 1.0 0.0 0.0
+GPS-sattelites 0
+Audio 0
+Audio-on false
+signal -1
